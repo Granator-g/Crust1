@@ -7,4 +7,10 @@ fn main() {
 
 
     println!("The mathematical answers of x,a,y,b,z are:\n x: {x}\n a: {a}\n y: {y}\n b: {b}\n z: {z}\n");
+
+    {
+        let flower_painted_celine = '🌸';
+
+        println!("print out Celine: {flower_painted_celine}");
+    }
 }
